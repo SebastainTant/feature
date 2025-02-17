@@ -1,0 +1,1 @@
+I made this very basic website with 3 files, a .txt,.md,.html, where it contains my student number and name. I also used a git hub repository to make this easy.
