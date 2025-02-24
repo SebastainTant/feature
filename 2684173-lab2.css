@@ -1,0 +1,17 @@
+
+
+h1,h2,h3,p {
+    text-align: center;
+  }
+
+nav {
+    list-style: none;
+    }
+a {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+footer{
+    text-align: center;
+    }
